@@ -3,7 +3,7 @@
 ![Project Preview](https://via.placeholder.com/800x500?text=Recurring+Date+Picker+Demo) 
 *(Replace with actual screenshot)*
 
-A highly customizable recurring date picker component for React applications, featuring multiple theme options and comprehensive recurrence pattern support.
+A production-ready React component that enables complex recurring date selection with theme customization, built using modern web technologies.
 
 ## Features
 
@@ -47,6 +47,32 @@ src/
 ├── index.css
 Technology Stack
 Core Dependencies:
+Core Capabilities
+Recurrence Pattern Engine
+
+Supports daily/weekly/monthly/yearly patterns
+
+Handles advanced rules (nth weekday, custom intervals)
+
+Timezone-aware date calculations using date-fns
+
+Live preview of generated dates
+
+Theme System
+
+4 built-in color themes (light/dark/ocean/sunset)
+
+CSS variable-based theming
+
+Smooth transition animations between themes
+
+UI Components
+
+Interactive calendar grid
+
+Dynamic form controls for recurrence options
+
+Responsive layout (mobile → desktop)
 
 React 18+ (Component architecture)
 
